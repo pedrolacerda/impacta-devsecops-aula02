@@ -2,20 +2,21 @@
 
 Este repositório é usado para praticar conceitos de Git e GitHub com a turma de DevSecOps curso Cloud Computing
 
-## Subtítulo
+## Quem sou eu
 
-- Item A
-- Item B
-- Item C
+Meu nome é Pedro Lacerda, 33 anos, moro em Contagem/MG.
 
-### Seção A
+### Hobbies 🥳
 
-1. Item 01
-1. Item 02
-1. Item 03
+- Assistir série 📺
+- Jogar futebol ⚽
+- Viajar ✈️
+- Dormir 😴
 
-#### Item 01
+### Skills
 
-- [ ] Check 1
-- [ ] Check 2
-- [ ] Check 3
+- DevSecOps
+- Comer
+- Javascript/Typescript
+- Python
+- 🍻
