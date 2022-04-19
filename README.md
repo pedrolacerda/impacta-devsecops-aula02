@@ -12,7 +12,7 @@ Meu nome é Pedro Lacerda, 33 anos, moro em Contagem/MG.
 - Assistir série 📺
 - Jogar futebol ⚽
 - Viajar ✈️
-- Surfar 🏄
+- Ir para Guarapari 🏖️ 
 - Ir ao cinema 🎦
 
 ### Skills
