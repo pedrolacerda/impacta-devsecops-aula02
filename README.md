@@ -21,4 +21,3 @@ Meu nome é Pedro Lacerda, 33 anos, moro em Contagem/MG.
 - Javascript/Typescript
 - Python
 - 🍻
-
