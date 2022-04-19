@@ -1,6 +1,7 @@
 # Impacta DevSecOps - Aula 02 - Git & GitHub
 
-Este repositório é usado para praticar conceitos de Git e GitHub com a turma de DevSecOps curso Cloud Computing
+Este repositório é usado para praticar conceitos de Git e GitHub com a turma de DevSecOps curso Cloud Computing.
+Com apoio de @belmironeto
 
 ## Quem sou eu
 
